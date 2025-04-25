@@ -1,6 +1,6 @@
 cask "convertfast" do
-  version "1.0.1"
-  sha256 "06ddec7273426fc3c1e962a9d06b6f6f4263b5f9929d3e0bbb1b327849e4abb6"
+  version "1.0.2"
+  sha256 "ff1f00b583a39b29dca18d3326bf011d6070157439ae820c4b46f364d090fcc5"
 
   url "https://github.com/madrzak/ConvertFast/releases/download/v#{version}/ConvertFast-#{version}.zip"
   name "ConvertFast"
