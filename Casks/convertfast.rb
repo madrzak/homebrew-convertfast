@@ -9,6 +9,8 @@ cask "convertfast" do
 
   depends_on formula: "ffmpeg"
   depends_on formula: "webp"
+  depends_on formula: "imagemagick"
+
   depends_on macos: ">= :monterey"
 
   app "ConvertFast.app"
